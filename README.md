@@ -1,2 +1,2 @@
 # Oma
-Oma repositori testaus
+Oma repositori testataan luomista ja julkaisemista - muutos uusi branch
